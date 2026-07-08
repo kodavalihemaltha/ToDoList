@@ -1,0 +1,23 @@
+# To-Do List
+
+## Description
+This is a simple To-Do List application developed using Python. It allows users to manage their daily tasks through a menu-driven program.
+
+## Features
+- Add a new task
+- View all tasks
+- Delete a task
+- Exit the application
+
+## Requirements
+- Python 3.x
+- Visual Studio Code (optional)
+
+## How to Run
+1. Open the project folder in VS Code.
+2. Open the terminal.
+3. Run the command:
+   py main.py
+
+## Author
+Latha Kodavali
